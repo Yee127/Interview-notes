@@ -1,2 +1,2 @@
-# Interview-notes
-面试相关笔记
+# JavaNotes
+Java笔记
